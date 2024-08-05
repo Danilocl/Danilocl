@@ -7,7 +7,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: devdanielbr@gmail.com
 - ⚡ Fun fact: In Finland, there is a Wife Carrying World Championship.
-<a href="https://portfolio-dev-daniel.netlify.app/" target="_blank">Portfólio</a>
+- <a href="https://portfolio-dev-daniel.netlify.app/" target="_blank">Portfólio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
